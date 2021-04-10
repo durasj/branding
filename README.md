@@ -1,2 +1,10 @@
-# branding
+# Branding
 Branding and other related resources
+
+## License
+
+Octosign Branding (c) by Jan Duras <jan@duras.me> and Jakub Duras <jakub@duras.me>
+
+Octosign Branding is licensed under a Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
