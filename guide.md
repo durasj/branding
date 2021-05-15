@@ -8,7 +8,7 @@
 |[.png](logo/Logo.png)|[.png](logo/Logo_SingleColor.png)|[.png](logo/Icon.png)|[.png](logo/Icon_SingleColor.png)|
 
 ### The logo itself
-The logo consists of the brand name "Octosign" and an icon. The icon is made of an octopus with a lock as his head - representing safety, and writing ink under his feet - representing writing, signing. 
+The logo consists of the brand name "Octosign" and an icon. The icon is made of an octopus with a lock as its head - representing safety, and ink under its feet - representing writing, signing.
 
 ![alt text](examples/Logo.png "Octosign logo")
 *The logo*
